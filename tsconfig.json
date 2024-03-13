@@ -19,12 +19,13 @@
       "@storage/*": [
         "./src/storage/*"
       ],
-      "@theme/*": [
-        "./src/theme/*"
-      ],
       "@utils/*": [
         "./src/utils/*"
       ]
+    },
+    "compilerOptions": {
+      "types": ["styled-components"],
+      "include": ["./src"]
     }
   }
 }
