@@ -23,9 +23,5 @@
         "./src/utils/*"
       ]
     },
-    "compilerOptions": {
-      "types": ["styled-components"],
-      "include": ["./src"]
-    }
   }
 }

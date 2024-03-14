@@ -1,10 +1,9 @@
-import * as S from "@screens/Groups/styles";
+import {Container} from "@screens/Groups/styles";
 
 export function Groups() {
     return (
-        <S.Container>
-            <S.Title>Groups</S.Title>
-        </S.Container>
+        <Container>
+        </Container>
     );
 }
 
